@@ -44,3 +44,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akarshagarwal99&show_icons=true&locale=en&layout=compact" alt="akarshagarwal99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarshagarwal99&show_icons=true&locale=en" alt="akarshagarwal99" /></p>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7786475484628833"
+     crossorigin="anonymous"></script>
