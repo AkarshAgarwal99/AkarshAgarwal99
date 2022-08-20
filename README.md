@@ -1,7 +1,3 @@
-<head>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7786475484628833"
-     crossorigin="anonymous"></script>
-</head>
 <h1 align="center">Hi 👋, I'm Akarsh Agarwal</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
 
