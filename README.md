@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DevOps usecases**
 
-- 👨‍💻 All of my projects are available at [akarshagarwal.in](akarshagarwal.in)
+- 👨‍💻 All of my projects are available at [devakarsh.in](devakarsh.in)
 
 - 💬 Ask me about **Very much good have pure handson skills on**
 
