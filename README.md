@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akarsh Agarwal</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akarshagarwal99" alt="akarshagarwal99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akarshagarwal" alt="akarshagarwal" /></a> </p>
 
 - 🌱 I’m currently learning **HashiCorp Tools**
 
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **DevOps usecases**
 
-- 👨‍💻 All of my projects are available at [devakarsh.in](devakarsh.in)
+- 👨‍💻 All of my projects are available at [https://github.com/AkarshAgarwal99](https://github.com/AkarshAgarwal99)
 
-- 💬 Ask me about **Very much good have pure handson skills on**
+- 💬 Ask me about below technical skills
 
     - Jenkins
     - CircleCI
@@ -29,8 +29,6 @@
     - ELK Stack 
     - Selenium 
     - UFT
-
-- ⚡ Fun fact **I know Full Deep Dive AWS Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
