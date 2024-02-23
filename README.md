@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akarsh Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Akarsh Agarwa</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akarshagarwal" alt="akarshagarwal" /></a> </p>
