@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HashiCorp Tools**
 
-- 👯 I’m looking to collaborate on **Part Time Projects**
+- 👯 I’m looking to collaborate on **Part Time Projectss**
 
 - 🤝 I’m looking for help with **DevOps usecases**
 
